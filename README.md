@@ -3,6 +3,8 @@
 Dark Processing Theme (for 4.0)
 ===================
 
+[中文说明](./README_CN.md)
+
 A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 4.0.
 
 | Processing Version | Repo |
